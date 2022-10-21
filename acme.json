@@ -1,0 +1,38 @@
+{
+  "members": [
+    {
+      "name": "bob",
+      "position": "tester",
+      "email": "bob@test.com",
+      "website": "example.com",
+      "logo": "logo_rr.png",
+      "pixel_color": [
+        38,
+        60,
+        90
+      ],
+      "background_color": [
+        249,
+        200,
+        103
+      ]
+    },
+    {
+      "name": "alice",
+      "position": "tester",
+      "email": "alice@test.com",
+      "website": "example.com",
+      "logo": "logo_rr.png",
+      "pixel_color": [
+        38,
+        60,
+        90
+      ],
+      "background_color": [
+        249,
+        200,
+        103
+      ]
+    }
+  ]
+}
