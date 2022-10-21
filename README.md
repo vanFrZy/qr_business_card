@@ -78,6 +78,8 @@ Running
 python qr_code_generator.py acme.json
 ``` 
 will result in the following qr codes:
+
+
 ![example card](alice.png)
 ![example card](bob.png)
 
