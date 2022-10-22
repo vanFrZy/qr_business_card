@@ -4,7 +4,7 @@ Basic qr code business cards to help save the planet by not printing them on pap
 
 ### Requirements
 
-Make sure you have install the following packages:
+Make sure you install the following packages:
 
 ```
 pip install Pillow
