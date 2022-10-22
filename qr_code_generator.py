@@ -2,10 +2,6 @@
     Script to generate simple qr code business cards with or without certain features.
     The goal is to digitize this information in the form of a qr code and stop wasting paper
 """
-# https://www.makeuseof.com/how-to-create-and-decode-a-qr-code-using-python/
-# https://www.geeksforgeeks.org/how-to-generate-qr-codes-with-a-custom-logo-using-python/
-# https://github.com/lincolnloop/python-qrcode
-# https://github.com/rclement/business-card-generator
 
 import json
 import sys
